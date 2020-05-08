@@ -3,7 +3,7 @@ Detective Craft is Minesweeper clone game using tkinter in python. Minesweeper i
 # Dependencies Used
 Tinker
 random
-funtools
+functools
 # Rules of Detective Craft
 Rules of minesweeper
  Each "Detective Craft" game starts out with a grid of unmarked squares. 
